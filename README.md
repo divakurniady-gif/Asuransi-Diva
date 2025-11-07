@@ -1,12 +1,15 @@
-# 🧮 Asuransi Diva – Bringing Actuarial Logic to Life
+### 🧮 Asuransi Diva
 
-Are you curious how actuarial formulas work in real-world applications?  
-Meet **Asuransi Diva**, a web app designed to bring actuarial science beyond spreadsheets.  
-With Asuransi Diva, you can calculate **life insurance premiums and reserves** using both **Clayton Copula (Last Survivor)** and **Single Life** models — all in one simple, interactive platform.
+A modern web application designed to make **life insurance calculations** faster, smarter, and more interactive.  
 
-Why Asuransi Diva?  
-Because actuarial concepts shouldn’t stay inside lecture notes or Excel files.  
-This project was created to make actuarial logic come alive through web development, combining **Flask (Python)**, **SQL**, and **HTML** into a dynamic, data-driven actuarial application.
+With **Asuransi Diva**, you can perform **premium and reserve calculations** for:  
+- **Last Survivor (Clayton Copula)**  
+- **Single Life**  
+
+Built with precision and simplicity in mind, the platform combines **Flask (Python)** for backend logic, **SQL** for data management, and **HTML** powered by **Tailwind CSS** for a clean, responsive experience.  
+
+Every feature is crafted to make actuarial computations feel seamless — from input to visualization, from theory to result.  
+
 
 🌐 **Live demo:** [https://divakurniady.pythonanywhere.com/](https://divakurniady.pythonanywhere.com/)
 
@@ -26,20 +29,20 @@ This project was created to make actuarial logic come alive through web developm
 ---
 ---
 
-## 🧮 Calculation Theory (Overview)
+## 🧮 Calculation Theory 
 
-Below is a high-level diagram showing how premiums and reserves are computed in Asuransi Diva — from user inputs and mortality data to simulated copula parameter estimation and final actuarial outputs.
 
 **Single Life**  
-![Single Life Image](docs/homepage.png)
+<p align="center">
+  <img src="Assets/Single Life.jpg" alt="Single Life" width="150"  height="200">
+</p>
 
-**Result Page**  
-![Result Page Screenshot](docs/result.png)
 
-**Dashboard**  
-![Dashboard Screenshot](docs/dashboard.png)
+**Last Survivor**  
+<p align="center">
+  <img src="Assets/Last Survivor.jpg" alt="Last Survivor" width="150"  height="200">
+</p>
 
----
 
 > Data source: Indonesian Mortality Table 2023.
 
@@ -108,16 +111,26 @@ This structure ensures that every calculation—from input to visualization—re
 
 ## 🖼️ Preview
 
-**Home Page**  
-![Home Page Screenshot](docs/homepage.png)
 
-**Result Page**  
-![Result Page Screenshot](docs/result.png)
+<table>
+  <tr>
+    <td><img src="https://github.com/divakurniady-gif/Asuransi-Diva/blob/main/Assets/web.jpg" width="640" height="221"></td>
+    <td><img src="https://github.com/divakurniady-gif/Asuransi-Diva/blob/main/Assets/web1.jpg" width="640" height="221"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/divakurniady-gif/Asuransi-Diva/blob/main/Assets/web2.jpg" width="640" height="221"></td>
+    <td><img src="https://github.com/divakurniady-gif/Asuransi-Diva/blob/main/Assets/web3.jpg" width="640" height="221"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/divakurniady-gif/Asuransi-Diva/blob/main/Assets/web4.jpg" width="640" height="221"></td>
+    <td><img src="https://github.com/divakurniady-gif/Asuransi-Diva/blob/main/Assets/web5.jpg" width="640" height="221"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/divakurniady-gif/Asuransi-Diva/blob/main/Assets/web6.jpg" width="640" height="221"></td>
+    <td><img src="https://github.com/divakurniady-gif/Asuransi-Diva/blob/main/Assets/web7.jpg" width="640" height="221"></td>
+  </tr>
+</table>
 
-**Dashboard**  
-![Dashboard Screenshot](docs/dashboard.png)
-
----
 
 ## 📝 Notes and Limitations
 
