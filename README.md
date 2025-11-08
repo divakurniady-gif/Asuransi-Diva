@@ -34,13 +34,13 @@ Every feature is crafted to make actuarial computations feel seamless — from i
 
 **Single Life**  
 <p align="center">
-  <img src="Assets/Single Life.jpg" alt="Single Life" width="150"  height="200">
+  <img src="Assets/Single Life.jpg" alt="Single Life" width="250"  height="300">
 </p>
 
 
 **Last Survivor**  
 <p align="center">
-  <img src="Assets/Last Survivor.jpg" alt="Last Survivor" width="150"  height="200">
+  <img src="Assets/Last Survivor.jpg" alt="Last Survivor" width="250"  height="300">
 </p>
 
 
